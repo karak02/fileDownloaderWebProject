@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: rgb(99, 112, 235);
+    background-color: #a39193;
 }
 .wrapper{
     width: 550px;
@@ -36,7 +36,7 @@ form input{
     padding: 0 17px;
     margin-bottom: 5px;
     border-radius: 5px;
-    border: 1px solid rgb(60, 252, 198);
+    border: 1px solid rgb(173, 216, 230);
 }
 form button{
     width: 100%;
@@ -45,7 +45,7 @@ form button{
     border: 1px;
     color: rgb(0, 0, 0);
     font-size: medium;
-    background-color: rgb(133, 250, 217);
+    background-color: 	rgb(240,248,255);
     border-radius: 8px;
     pointer-events: none;
     opacity: 0.5 ;
